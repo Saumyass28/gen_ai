@@ -1,0 +1,4 @@
+streamlit
+gradio
+PyPDF2
+pinecone-client
